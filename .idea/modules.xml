@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SampleSQLite.iml" filepath="$PROJECT_DIR$/SampleSQLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notesapp/notesapp.iml" filepath="$PROJECT_DIR$/notesapp/notesapp.iml" />
     </modules>
   </component>
 </project>
